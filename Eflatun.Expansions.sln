@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src", "src\src.csproj", "{92CC73D4-6496-4945-B339-17C35B7995A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eflatun.Expansions", "Eflatun.Expansions\Eflatun.Expansions.csproj", "{92CC73D4-6496-4945-B339-17C35B7995A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
