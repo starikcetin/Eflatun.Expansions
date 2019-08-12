@@ -1,6 +1,8 @@
 # Eflatun.Expansions
 C# Expansions
 
+https://www.nuget.org/packages/Eflatun.Expansions
+
 Licence
 ---
 MIT Licence. Refer to the [LICENCE](https://github.com/starikcetin/Eflatun.Expansions/blob/master/LICENSE) file.
