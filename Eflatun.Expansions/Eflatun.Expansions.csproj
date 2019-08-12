@@ -1,8 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
         <RootNamespace>Eflatun.Expansions</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>0.0.2</PackageVersion>
+        <Title>Eflatun.Expansions</Title>
+        <Authors>starikcetin &lt;cetinsamedtarik@gmail.com&gt; (https://github.com/starikcetin)</Authors>
+        <Description>C# Expansions</Description>
+        <Copyright>Copyright (c) 2018 S. Tarık Çetin</Copyright>
+        <PackageProjectUrl>https://github.com/starikcetin/Eflatun.Expansions</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/starikcetin/Eflatun.Expansions/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/starikcetin/Eflatun.Expansions</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
 </Project>
