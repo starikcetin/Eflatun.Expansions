@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Eflatun.Expansions
+namespace starikcetin.Eflatun.Expansions
 {
     /// <summary>
     /// A dictionary that remembers the order that keys were first inserted. <para/>

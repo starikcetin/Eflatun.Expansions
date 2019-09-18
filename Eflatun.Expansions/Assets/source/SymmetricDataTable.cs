@@ -1,4 +1,4 @@
-﻿namespace Eflatun.Expansions
+﻿namespace starikcetin.Eflatun.Expansions
 {
     /// <summary>
     /// A special <see cref="DataTable{TRow,TCol,TCell}"/> type where you get the same cell when you swap the row and column. <para/>
