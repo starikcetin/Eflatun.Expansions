@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace starikcetin.Eflatun.Expansions
+namespace Eflatun.Expansions
 {
     /// <summary>
     /// A fast collection that consists of rows and columns, and cells that corresponds to intersection of these. <para/>

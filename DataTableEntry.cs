@@ -1,4 +1,4 @@
-namespace starikcetin.Eflatun.Expansions
+namespace Eflatun.Expansions
 {
     /// <summary>
     /// The value type of the internal dictionary of a <see cref="DataTable{TRow,TCol,TCell}"/> class.

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq.Expressions;
 
-namespace starikcetin.Eflatun.Expansions
+namespace Eflatun.Expansions
 {
     // --------------------------
     // The code below is taken from:
