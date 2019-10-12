@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace starikcetin.Eflatun.Expansions
+namespace Eflatun.Expansions
 {
     /// <summary>
     /// A dictionary type which allows bi-directional lookups. <para />

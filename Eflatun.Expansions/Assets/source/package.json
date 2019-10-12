@@ -4,6 +4,6 @@
     "description": "C# Expansions",
     "displayName": "Eflatun.Expansions",
     "license": "MIT",
-    "name": "com.starikcetin.eflatun.expansions",
-    "version": "0.1.1"
+    "name": "com.eflatun.expansions",
+    "version": "0.2.0"
 }
